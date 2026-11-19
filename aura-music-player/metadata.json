@@ -1,0 +1,6 @@
+{
+  "name": "Aura Music Player",
+  "description": "A responsive dark-mode music player web application with interactive playback controls, track navigation, and seekable progress bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
